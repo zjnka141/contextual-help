@@ -26,7 +26,6 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Video", name: "video", widget: "video"}
 
   - name: "pages"
     label: "Pages"
