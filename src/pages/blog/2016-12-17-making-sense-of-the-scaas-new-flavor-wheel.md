@@ -12,7 +12,7 @@ tags:
 ---
 ![flavor wheel](/img/cartoon-low-poly-earth-world-map-simple-extra-ready-fast.jpg)
 
-{{< Video url=https://www.youtube.com/embed/ryP1RMA7P9Y control=true loop=false autoplay=false muted=true height=200 width=300 poster=https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/48/posts/28677/image/Woocommerce-Tabs-Pro.jpg >}}
+{{< Video url= control=true loop=false autoplay=false muted=true height=200 width=300 poster=https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/48/posts/28677/image/Woocommerce-Tabs-Pro.jpg >}}
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
