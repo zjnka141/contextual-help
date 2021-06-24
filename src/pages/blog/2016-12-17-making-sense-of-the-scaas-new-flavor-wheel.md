@@ -12,6 +12,8 @@ tags:
 ---
 ![flavor wheel](/img/cartoon-low-poly-earth-world-map-simple-extra-ready-fast.jpg)
 
+{{< Video url=https://www.youtube.com/embed/ryP1RMA7P9Y control=true loop=false autoplay=false muted=true height=200 width=300 poster=undefined >}}
+
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
 While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
