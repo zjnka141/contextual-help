@@ -56,6 +56,9 @@ module.exports = {
               destinationDir: 'static',
             },
           },
+          {
+            resolve: `gatsby-remark-video-shortcode`
+          }
         ],
       },
     },
@@ -73,15 +76,5 @@ module.exports = {
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-video-shortcode`
-          }
-        ]
-      }
-    }
   ],
 }
